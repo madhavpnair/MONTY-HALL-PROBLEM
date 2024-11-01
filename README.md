@@ -17,7 +17,7 @@
 </div>
 <br>
 <div>
-  <p style="color:red;">
+  <p style="color:#ff5733;">
     P(A|B)=P(A∩B)/P(B)</p>
     P(A|B) is the conditional probability of event A given that B has occured<br>
     P(A∩B) is the probability of both A and B occuring<br>
