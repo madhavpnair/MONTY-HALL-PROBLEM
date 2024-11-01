@@ -7,12 +7,11 @@ success_count_for_NOT_switching=0
 while(1):
 
     print()
+    print("        Welcome! This is a simulation of the Monty Hall Problem")
     print()
     print()
     print("        Here we have three doors 1,2,3")
-    print()
     print("        One room has a car in it and other two are empty")
-    print()
     print("        choose the number of the door which you want to open")
     print()
 

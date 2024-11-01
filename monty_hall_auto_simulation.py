@@ -6,6 +6,7 @@ total_no_of_trials=0
 success_count_for_switching=0
 success_count_for_NOT_switching=0
 
+print("      Welcome! This is a simulation of the Monty-Hall problem")
 n=int(input("Enter the number of attempts to be taken : "))
 print()
 

@@ -46,17 +46,15 @@ def fun6(success_count_for_switching,success_count_for_NOT_switching):
 while(1):
 
     
-
-    
+    print()
+    print("        Welcome! This is a simulation of the Monty Hall problem")    
     print()
     print()
     print()
     print("        Here we have three doors 1,2,3")
-    print()
     print("        One room has a car in it and other two are empty")
-    print()
     print("        choose the number of the door which you want to open")
-    print()
+    
 
     try:
         user_input=int(input("        Enter '1' or '2' or '3' or '0' to exit the program : "))
