@@ -17,10 +17,10 @@
 </div>
 <br>
 <div>
-    P(A|B)=P(A∩B)/P(B)
-    P(A|B) is the conditional probability of event A given that B has occured
-    P(A∩B) is the probability of both A and B occuring
-    P(B) is the probability of B occuring
+    P(A|B)=P(A∩B)/P(B)<br>
+    P(A|B) is the conditional probability of event A given that B has occured<br>
+    P(A∩B) is the probability of both A and B occuring<br>
+    P(B) is the probability of B occuring<br>
 </div>
 <br>
 <div>
