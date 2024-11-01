@@ -27,8 +27,9 @@
   Let's apply conditional probability to the Monty Hall problem. The key events here are:<br>
   A: You win by switching.<br>
   B: Monty opens a door of an empty room (or a room having goat - another narrative of the same   problem)<br>
-  Initially, there is a 1/3 chance that you pick the car, and a 2/3 chance that you pick a        goat. <b>Monty's action (opening a goat door) gives you additional information about where      the car is, leading to the key insight of the problem: you are twice as likely to win if 
-  you switch.<b><br>
+  Initially, there is a 1/3 chance that you pick the car, and a 2/3 chance that you pick a goat. 
+  <b>Monty's action (opening a goat door) gives you additional information about where the car is, leading to the key insight of the problem: you are twice as likely to win if 
+  you switch.</b>b><br>
 </div>
 <br>
 to be cont...
