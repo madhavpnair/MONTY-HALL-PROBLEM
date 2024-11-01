@@ -1,5 +1,5 @@
 # MONTY-HALL-PROBLEM
-<h1><b>Simulation of a famous probability puzzle called Monty hall - 3 versions of the simulation are provided </b></h1> 
+<h1><b>Simulation of the famous probability puzzle called Monty hall - 3 versions of the simulation are provided </b></h1> 
 <br>
 <hr>
 <ol>
@@ -11,14 +11,18 @@
 <h2><b>Conditional Probabilistic Results and Explanation<b></h2>
 <hr>
   
-<div>Conditional probability involves calculating the likelihood of an event occurring, given that another event has already occurred. This is commonly expressed as:</div>
-
+<div>
+  Conditional probability involves calculating the likelihood of an event occurring, given that 
+  another event has already occurred. This is commonly expressed as:
+</div>
+<br>
 <div>
     P(A|B)=P(A∩B)/P(B)
     P(A|B) is the conditional probability of event A given that B has occured
     P(A∩B) is the probability of both A and B occuring
     P(B) is the probability of B occuring
 </div>
+<br>
 <div>
   Let's apply conditional probability to the Monty Hall problem. The key events here are:<br>
   A: You win by switching.<br>
